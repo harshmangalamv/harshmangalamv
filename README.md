@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshmangalamv" target="blank"><img src="https://img.shields.io/twitter/follow/harshmangalamv?logo=twitter&style=for-the-badge" alt="harshmangalamv" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Blog Web App**. Open to discussions on Back-end, Algorithmic problems and anything new!
+- 🔭 I’m currently working on **My Blog** and it will be going live at mangalams.blog sooner and will be hosted forever. Open to discussions on Back-end, Algorithmic problems and anything new!
 
 - 🌱 I’m currently deep diving **React**
 
